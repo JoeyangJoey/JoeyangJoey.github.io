@@ -6,7 +6,7 @@ subtitle: <h5 style="color:#004A7F;"> <b> /* Building a Future Where Engineering
 
 profile:
   align: right
-  image: medical-detect.png
+  image: joe.png #medical-detect.png
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>555 your office number</p>
