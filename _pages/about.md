@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: * Building a Future Where Engineering and Music Resonate in Harmony.*
+subtitle: <b>Building a Future Where Engineering and Music Resonate in Harmony.</b>
 
 profile:
   align: right
