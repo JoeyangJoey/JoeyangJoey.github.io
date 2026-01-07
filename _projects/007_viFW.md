@@ -1,12 +1,12 @@
 ---
 layout: page
-title: project 3 with very long name
-description: a project that redirects to another website
-img: assets/img/7.jpg
-redirect: https://unsplash.com
+title: mVi MultiLoop Framework V1.2
+description: An open source LabVIEW multi-task application framework developed by mVi Academy.
+img: assets/img/mVi-viFW.png
 importance: 3
-category: work
+category: Virtual Instruments
 ---
+viFW is an open source LabVIEW multi-task application framework developed by mVi. It is to simplify the development of complex multi-task virtual instrument system and increase the system flexibility and reliability. ViFW has been widely used in variety of industrial virtual instrument systems.
 
 Every project has a beautiful feature showcase page.
 It's easy to include images in a flexible 3-column grid format.

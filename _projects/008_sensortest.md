@@ -1,10 +1,10 @@
 ---
 layout: page
-title: project 4
-description: another without an image
-img:
-importance: 3
-category: fun
+title: Sensor IC In-Circuit Tester
+description: A virtual Instrument system to conduct semiconductor senor "End of Production Line(EOL)" functional test during mass production 🎉
+img: assets/img/Senortest.png
+importance: 4
+category: Virtual Instruments
 ---
 
 Every project has a beautiful feature showcase page.

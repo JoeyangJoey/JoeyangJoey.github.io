@@ -1,10 +1,10 @@
 ---
 layout: page
-title: project 1
-description: with background image
-img: assets/img/12.jpg
+title: mVi Vision Framework V1.1
+description: An open source LabVIEW vision multi-task application framework developed by mVi Academy
+img: assets/img/visonFW.png
 importance: 1
-category: work
+category: Machine Vision
 related_publications: true
 ---
 

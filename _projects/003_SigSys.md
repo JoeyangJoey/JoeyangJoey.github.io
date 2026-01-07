@@ -1,10 +1,11 @@
 ---
 layout: page
-title: project 5
-description: a project with a background image
-img: assets/img/1.jpg
-importance: 3
-category: fun
+title: Signaling Equipment Monitoring 
+description: A solution to monitor the Signaling Equipment based on machine vision
+img: assets/img/SigMonitor.png
+importance: 2
+category: Machine Vision
+giscus_comments: true
 ---
 
 Every project has a beautiful feature showcase page.
