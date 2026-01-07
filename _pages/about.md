@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: <h5 style="color:#136B83;"> <b> /* Building a Future Where Engineering and Music Resonate in Harmony */ </b></h5>
+subtitle: <h5 style="color:#004A7F;"> <b> /* Building a Future Where Engineering and Music Resonate in Harmony */ </b></h5>
 
 profile:
   align: right
