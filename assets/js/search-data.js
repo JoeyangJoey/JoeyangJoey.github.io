@@ -445,16 +445,6 @@ ninja.data = [{
           description: "A solution to monitor the Signaling Equipment based on machine vision",
           section: "Projects",handler: () => {
               window.location.href = "/projects/003_SigSys/";
-            },},{id: "projects-night-vision-device-inspection",
-          title: 'Night Vision Device Inspection',
-          description: "A Solution to inspect the quality of night vision device.",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/004_nighvision/";
-            },},{id: "projects-keyboard-vision-inspect-system",
-          title: 'Keyboard Vision Inspect system',
-          description: "A solution to inspect the computer keyboard quality before end of production line.",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/005-KeyInspect/";
             },},{id: "projects-sensor-ic-in-circuit-tester",
           title: 'Sensor IC In-Circuit Tester',
           description: "A virtual Instrument system to conduct semiconductor senor &quot;End of Production Line(EOL)&quot; functional test during mass production 🎉",
