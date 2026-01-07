@@ -434,7 +434,12 @@ ninja.data = [{
           title: 'Pharmaceutical Defect Detection',
           description: "A Machine vision based Solution to Detect Pharmaceutical Defects",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/002_medical/";
+              window.location.href = "/projects/001_medical/";
+            },},{id: "projects-fruit-quality-inspection",
+          title: 'Fruit Quality Inspection',
+          description: "A Solution to control fruit quality based on machine vision",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/002_Fruit/";
             },},{id: "projects-signaling-equipment-monitoring",
           title: 'Signaling Equipment Monitoring',
           description: "A solution to monitor the Signaling Equipment based on machine vision",
@@ -450,11 +455,6 @@ ninja.data = [{
           description: "A solution to inspect the computer keyboard quality before end of production line.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/005-KeyInspect/";
-            },},{id: "projects-fruit-quality-inspection",
-          title: 'Fruit Quality Inspection',
-          description: "A Solution to control fruit quality based on machine vision",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/006_Fruit/";
             },},{id: "projects-sensor-ic-in-circuit-tester",
           title: 'Sensor IC In-Circuit Tester',
           description: "A virtual Instrument system to conduct semiconductor senor &quot;End of Production Line(EOL)&quot; functional test during mass production 🎉",
